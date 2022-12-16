@@ -1,1 +1,1 @@
-# bwl_GCaMP_rest_oddball_2022
+# GCaMP_rest_oddball_2022
